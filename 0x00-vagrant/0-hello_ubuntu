@@ -1,1 +1,1 @@
--s ctl_path
+uname -s
